@@ -1,4 +1,4 @@
-# A Robust Unsupervised Ensemble Pipeline with explainable AI for Stellar Anomaly Detection in GAIA DR3
+# A Robust Unsupervised Ensemble Pipeline with Explainable AI for Stellar Anomaly Detection in GAIA DR3
 
 ## Project Overview
 This project performs exploratory data analysis and preprocessing on a stellar dataset using Python. The notebook cleans the data, engineers useful features, and prepares it for further analysis and machine learning.
