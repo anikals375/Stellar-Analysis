@@ -1,7 +1,5 @@
 # A Robust Unsupervised Ensemble Pipeline with Explainable AI for Stellar Anomaly Detection in GAIA DR3
 
-# Hybrid Ensemble Learning for Anomaly Detection in Stellar Data
-
 ## Project Overview
 
 This project focuses on anomaly detection in stellar data using a hybrid ensemble machine learning approach. The dataset is preprocessed, cleaned, and enhanced through feature engineering before applying multiple unsupervised learning algorithms to identify unusual stellar observations. The project also compares clustering performance using different evaluation metrics and provides an interactive interface for prediction.
